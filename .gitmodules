@@ -1,3 +1,6 @@
 [submodule "2018/Computer_Vision/Computer_Vision"]
 	path = 2018/Computer_Vision/Computer_Vision
 	url = https://github.com/AtharvaKalsekar/Computer_Vision
+[submodule "2018/Maze_Solver/Maze-Solver-Robot-"]
+	path = 2018/Maze_Solver/Maze-Solver-Robot-
+	url = https://github.com/mEEt126/Maze-Solver-Robot-
