@@ -4,3 +4,6 @@
 [submodule "2018/Maze_Solver/Maze-Solver-Robot-"]
 	path = 2018/Maze_Solver/Maze-Solver-Robot-
 	url = https://github.com/mEEt126/Maze-Solver-Robot-
+[submodule "2018/Music_Tagging/music-tagging"]
+	path = 2018/Music_Tagging/music-tagging
+	url = https://github.com/bolt25/music-tagging
