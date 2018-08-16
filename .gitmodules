@@ -8,3 +8,6 @@
 	path = 2018/Music_Tagging/music-tagging
 	url = https://github.com/bolt25/music-tagging
 
+[submodule "2018/Drishti_Buzzer/Drishti-Buzzer"]
+	path = 2018/Drishti_Buzzer/Drishti-Buzzer
+	url = https://github.com/himanshuk32/Drishti-Buzzer
